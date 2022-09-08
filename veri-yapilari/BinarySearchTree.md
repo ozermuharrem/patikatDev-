@@ -1,17 +1,15 @@
 
-+ root = 7
-`
-			7
-		      /	  \
-		     5     8
-		    / \     \
-		   1   6     9
-		  / \          
-		 0   3
-		    / \
-		   2   4 
-`
-   
++ root = 7 <br>
+		7 <br>
+		      /	  \ <br>
+		     5     8 <br>
+		    / \     \ <br>
+		   1   6     9 <br>
+		  / \          <br>
+		 0   3	<br>
+		    / \ <br>
+		   2   4 <br>
+
 Adımlar
 
 + 5 7 den küçük soluna yazılır.
